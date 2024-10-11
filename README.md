@@ -11,8 +11,8 @@ The enzyme turnover number ($k_{cat}$) is crucial for understanding enzyme kinet
 1.The dataset is in datasets/DLTKcat_data
 
 2.Download pre_trained model
-The molecular graph representation learning model MolGNet can be downloaded here (https://github.com/pyli0628/MPG)
-Other pre-training models mentioned in the paper can be downloaded from huggingface (https://huggingface.co/)
+The molecular graph representation learning model MolGNet can be downloaded [here] (https://github.com/pyli0628/MPG)
+Other pre-training models mentioned in the paper can be downloaded from [huggingface] (https://huggingface.co/)
 
 3.Calculate the Enzyme and Substrate representation./Train and test the PreTKcat
 ```
